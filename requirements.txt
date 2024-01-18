@@ -368,9 +368,11 @@ editdistance==0.6.2 \
     #   seqio
     #   seqio-nightly
     #   t5
-etils[array-types,enp,epath,epy,etqdm,etree]==1.5.1 \
-    --hash=sha256:2c1bfa2817eb4881cb509097f1e65ac6160126ba74ec47b3bb47ee678628d8c8 \
-    --hash=sha256:b530c0d1b2ed1b8da1af367d4b97891e680a6a4658d4190183210bbbb8cf1fb9
+etils[array-types,enp,epath,epy,etqdm,etree]==1.6.0 \
+    --hash=sha256:3da192b057929f2511f9ef713cee7d9c498e741740f8b2a9c0f6392d787201d4
+#etils[array-types,enp,epath,epy,etqdm,etree]==1.5.1 \
+#    --hash=sha256:2c1bfa2817eb4881cb509097f1e65ac6160126ba74ec47b3bb47ee678628d8c8 \
+#    --hash=sha256:b530c0d1b2ed1b8da1af367d4b97891e680a6a4658d4190183210bbbb8cf1fb9
     # via
     #   array-record
     #   clu
