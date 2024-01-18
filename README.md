@@ -36,6 +36,10 @@ without the `meliad` and `sentencepiece` dependencies.
 All instructions in this `README.md` can be run in one go by:
 
 ```
+sudo apt install -y python3.10 python3.10-dev python3.10-venv python3.10-tk
+python3 -m venv venv
+source venv/bin/activate
+#download the model from the url in download.sh manually and save it to ag_ckpt_vocab:  https://bit.ly/alphageometry
 bash run.sh
 ```
 
